@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1698944217 source:c:\users\bpotr\onedrive\pulpit\ultimate programowanie\zadania na olimpiade informatyczna\cza\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<map>
+
